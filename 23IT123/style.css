@@ -1,0 +1,47 @@
+#i1{
+    height: 300px;
+    width: 1000px;
+    margin-left: 10%;
+}
+div{
+    height: 600px;
+    width: 600px;
+    background-color:white;
+    margin-left: 23%;
+
+}
+#i2{
+    height: 100px;
+    width: 100px;
+    margin-left: 30%;
+}
+
+#di{
+    height: 600px;
+    width: 600px;
+    margin-left: 5%;
+
+}
+#m1{
+    height: 100%;
+    width: 70%;
+    margin-left: 22%;
+}
+
+#i3{
+    height: 100px;
+    width: 100px;
+    margin-left: 15%;
+}
+
+#d6{
+    margin-left: 50%;
+    text-align:justify;
+    font-size: 1cm;
+    font-weight: bold; 
+}
+img:hover{
+    box-shadow: 5.8px 11.5px 11.5px hsl(0deg 0% 0% / 0.32);
+    transition-duration: 1s;
+
+}
